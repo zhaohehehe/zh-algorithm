@@ -1,1 +1,1 @@
-# zh-algorithm
+# algorithm
